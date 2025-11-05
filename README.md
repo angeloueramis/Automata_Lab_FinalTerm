@@ -1,1 +1,1 @@
-# Automata_Lab_FinalTerm
+![Uploading LAB 2 AUTOMATA.jpg…]()
